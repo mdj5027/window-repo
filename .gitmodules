@@ -1,0 +1,3 @@
+[submodule "nexacrolib"]
+	path = nexacrolib
+	url = https://github.com/mdj5027/main-repo.git
